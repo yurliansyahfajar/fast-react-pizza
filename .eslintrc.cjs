@@ -18,5 +18,6 @@ module.exports = {
     ],
     "no-unused-vars": ["warn", { destructuredArrayIgnorePattern: "^_" }],
     "react-refresh/only-export-components": "off",
+    "react/prop-types": 0,
   },
 };
